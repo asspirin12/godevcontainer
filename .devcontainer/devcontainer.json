@@ -1,6 +1,6 @@
 {
   "name": "Go",
-  "image": "1.20-bullseye",
+  "image": "golang:latest",
 "portsAttributes": {
     "9000": {
       "label": "Hello GoLand",
